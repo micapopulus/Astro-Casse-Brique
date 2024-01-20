@@ -7,8 +7,8 @@
 
         let x = canvas.width / 2;
         let y = canvas.height - 30;
-        let dx = 3;
-        let dy = -3;
+        let dx = 4;
+        let dy = -4;
         let ballRadius = 10;
         let colorRandom = "#F50EB6";
 

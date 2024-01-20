@@ -1,0 +1,27 @@
+body {
+    background-image:url(../img/bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #9fd3b8;
+}
+
+canvas {
+    border: 1px solid black;
+    background-color: #8d8787;
+}
+
+h1 {
+	text-align: center;
+	color: #f8c3db;
+}
+#imageBrique {
+    display: none;
+}
+
+#contenu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+	width: 480px;
+	margin: auto;
+}
